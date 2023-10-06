@@ -1,0 +1,6 @@
+*.csv
+*.xls
+*.xlsx
+*.tsv
+*.joblib
+/notebooks/outros/desenvolvimento/__pycache__
